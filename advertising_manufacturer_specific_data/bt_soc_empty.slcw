@@ -1,0 +1,6 @@
+---
+label: "bt_soc_empty"
+project:
+- id: "main"
+  path: "advertising_manufacturer_specific_data.slcp"
+  output: "."
